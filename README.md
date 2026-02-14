@@ -35,7 +35,3 @@ This project is a Java console-based implementation of the classic Producer-Cons
 1. Compile and run the Java program  
 2. Observe producer and consumer threads working simultaneously  
 3. Check console output for produced and consumed values  
-
----
-
-## 🧪 Sample Output

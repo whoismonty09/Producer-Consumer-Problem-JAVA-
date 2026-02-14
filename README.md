@@ -34,4 +34,25 @@ This project is a Java console-based implementation of the classic Producer-Cons
 ## ▶️ How to Run
 1. Compile and run the Java program  
 2. Observe producer and consumer threads working simultaneously  
-3. Check console output for produced and consumed values  
+3. Check console output for produced and consumed values
+
+---
+
+## 🎯 Learning Outcomes
+- Learned how to implement multithreading in Java  
+- Understood synchronization and thread safety  
+- Practiced inter-thread communication using wait() and notify()  
+- Solved a classic concurrency problem  
+
+---
+
+## 🔮 Future Enhancements
+- Support multiple producers and consumers  
+- Add bounded buffer size  
+- Display thread execution statistics  
+- GUI simulation using JavaFX  
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
